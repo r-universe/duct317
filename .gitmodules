@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "scDHA"]
+	path = scDHA
+	url = https://github.com/duct317/scdha
+	shallow = true
+	registered = true
