@@ -8,3 +8,8 @@
 	url = https://github.com/duct317/scdha
 	shallow = true
 	registered = true
+[submodule "scISR"]
+	path = scISR
+	url = https://github.com/duct317/scisr
+	shallow = true
+	registered = true
