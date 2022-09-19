@@ -13,3 +13,8 @@
 	url = https://github.com/duct317/scisr
 	shallow = true
 	registered = true
+[submodule "SCFA"]
+	path = SCFA
+	url = https://github.com/duct317/scfa
+	shallow = true
+	registered = true

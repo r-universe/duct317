@@ -6,5 +6,8 @@
   {
     "package": "scISR",
     "oncran": true
+  },
+  {
+    "package": "SCFA"
   }
 ]
