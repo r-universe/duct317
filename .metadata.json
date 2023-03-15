@@ -1,10 +1,10 @@
 [
   {
-    "package": "scISR",
-    "oncran": true
+    "package": "SCFA"
   },
   {
-    "package": "SCFA"
+    "package": "scISR",
+    "oncran": true
   },
   {
     "package": "scDHA"
